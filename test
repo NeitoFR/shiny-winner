@@ -11,7 +11,7 @@ ip_pools:
   subnets:qsdfqsdf
   - allocation_ranges:
     - start: "10.112.201.28"
-      end: "10.112.201.35"
+      end: "10.112.201.35"qsfqsf
     cidr: "10.112.201.0/24"
 
 uplink_profiles:
